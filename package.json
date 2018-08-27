@@ -9,14 +9,14 @@
   "author": "SACHIN KUMAR",
   "license": "ISC",
   "engines": {
-    "node": "4.2.2"
+    "node": "4.7.0"
   },
   "dependencies": {
     "connect-mongo": "1.1.0",
     "ejs": "2.3.4",
     "express": "4.16.3",
     "express-session": "1.12.1",
-    "mongoose": "^4.3.1",
+    "mongoose": "4.3.1",
     "morgan": "1.6.1",
     "passport": "0.3.2",
     "passport-facebook": "2.0.0",
